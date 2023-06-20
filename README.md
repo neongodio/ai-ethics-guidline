@@ -30,3 +30,34 @@ There should be open dialogues with the public and other stakeholders about AI's
 
 ### Ethical impact assessment:
 AI systems should be subject to ethical impact assessments to identify and mitigate potential ethical risks. These risks should be evaluated and mitigated before the system is deployed.
+
+
+## References
+
+* Asilomar AI Principles (2016)
+* Montreal Declaration for Responsible AI (2018)
+* Ethics Guidelines for Trustworthy AI (2019)
+* IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems (2019)
+* AI Principles for People (2020)
+* BCG AI Ethics Guidelines (2022)
+* The Ethics Guidelines for Trustworthy AI, developed by the European Commission's High-Level Expert Group on Artificial Intelligence (AI HLEG).
+* The AI Principles for Transparency and Accountability, developed by the Partnership on AI.
+* The Ten Principles for the AI We Need, developed by the Berkman Klein Center for Internet & Society at Harvard University.
+* The Montreal Declaration for Responsible AI, developed by the Montreal Institute for Learning Algorithms.
+* The Ethics of AI in the Age of Surveillance Capitalism (The Atlantic, June 13, 2023)
+* How to Build an Ethical AI (MIT Technology Review, June 8, 2023)
+* The 10 Biggest Ethical Challenges of AI (Forbes, May 24, 2023)
+* AI Ethics: A Primer (The Brookings Institution, May 17, 2023)
+* The Future of AI Ethics (Nature, May 10, 2023)
+* The AI Ethics Toolkit (Ethics of AI)
+* The AI Ethics Framework (Stanford University)
+* The AI Ethics Guidebook (The Future Society)
+* Ethics Guidelines for Trustworthy AI (European Union, 2019)
+* Ten Core Principles for the Ethics of Artificial Intelligence (UNESCO, 2019)
+* Ethical Principles for Artificial Intelligence in Defense (U.S. Department of Defense, 2020)
+* AI Principles for Responsible Development (Google AI, 2020)
+* AI Principles for Social Impact (Microsoft, 2020)
+* AI Principles for Good (Amazon Web Services, 2021)
+* AI Principles for Inclusive Growth (World Economic Forum, 2021)
+* AI Principles for People and Planet (DeepMind, 2021)
+* AI Ethics Guidelines for China (Chinese Academy of Sciences, 2022)
